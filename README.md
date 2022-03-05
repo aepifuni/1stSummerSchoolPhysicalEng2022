@@ -25,7 +25,15 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
 
 ## Projects/Reports
 1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) 
-      1. [Adrián Israel Arancibia González](http://www.dropwizard.io/1.0.2/docs/)
+      1. [Adrián Israel Arancibia González](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Adri%C3%A1n%20Israel%20Arancibia%20Gonz%C3%A1lez_DL)
+      2. [Alvaro Alejandro Siesquén Abad](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Alvaro%20Alejandro%20Siesqu%C3%A9n%20Abad_DL)
+      3. [Angel Tomas Chaico Cahuana](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Angel%20Tomas%20Chaico%20Cahuana_DL)
+      4. [Carlo Eduardo Becerra Ahumada](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Carlo%20Eduardo%20Becerra%20Ahumada_DL)
+      5. [Eduardo Steve Rodriguez Canales](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Eduardo%20Steve%20Rodriguez%20Canales_DL)
+      6. [Marlon David Bustos Paucar](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Marlon%20David%20Bustos%20Paucar_DL)
+      7. [Michael Jordy Rojas Ruiz](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Michael%20Jordy%20Rojas%20Ruiz_DL)
+      8. [Miriam Geronimo Aparicio](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Miriam%20Geronimo%20Aparicio_DL)
+      9. [Royer Amed Lopez Flores](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Royer%20Amed%20Lopez%20Flores_DL)
 2. [Computer Vision](https://maven.apache.org/) 
       1. [Adrián Israel Arancibia González](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Computer%20Vision%20-%20Reports/Adri%C3%A1n%20Israel%20Arancibia%20Gonz%C3%A1lez_CV)
       2. [Royer Amed Lopez Flores](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Computer%20Vision%20-%20Reports/Royer%20Amed%20Lopez%20Flores_CV)

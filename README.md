@@ -43,7 +43,7 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
     
 2. Students
     1. Anderson Orrego
-    2. Alexander Catillo
+    2. Alexander Castillo
     3. César Mateu Pecho
     4. Adrian saravia
     5. Mary Paredes

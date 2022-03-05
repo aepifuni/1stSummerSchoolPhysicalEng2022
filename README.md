@@ -53,8 +53,8 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
 ## Organization
 1. Teams
     1. RIDEC
-    2. Física Reacreativa
-    3. GREIC-UNI
+    2. [Física Reacreativa-UNI](https://www.facebook.com/F%C3%ADsica-Recreativa-UNI-1723783687837367/)
+    3. [GREIC-UNI](https://www.facebook.com/Greic-UNI-106988233044218/)
     
 2. Students
     1. Anderson Orrego

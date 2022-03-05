@@ -12,11 +12,22 @@ It was held virtually from February 14 to 18.
 
 This time there were three courses: Deep Learning, Computer Vision and Particle Physics.
 
+## Instructors
+1. Courses
+    1. [Elvin Muñoz](https://github.com/elvin-mark) - Deep Learning
+    2. [Johan Quispe](https://scholar.google.com/citations?user=hmoORrEAAAAJ&hl=es&oi=sra) - Computer Vision
+    3. [Nhell Cerna](https://scholar.google.com/citations?user=uTWPgJcAAAAJ&hl=es&oi=ao) - Particle Physics
+        
+2. Workshops
+    1. Andersson Romero - Python for Data Science
+    2. Klebbert Andrade - Automatation of Fluid Physics Experiments
+    3. Angelo Ledesma - Colaborator
+
 ## Projects
-1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - [Elvin Muñoz](https://github.com/elvin-mark)
+1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) 
       1. [Michael](http://www.dropwizard.io/1.0.2/docs/)
-2. [Computer Vision](https://maven.apache.org/) - [Johan Quispe](https://scholar.google.com/citations?user=hmoORrEAAAAJ&hl=es&oi=sra)
-3. [Particle Physics](https://rometools.github.io/rome/) - [Nhell Cerna](https://scholar.google.com/citations?user=uTWPgJcAAAAJ&hl=es&oi=ao)
+2. [Computer Vision](https://maven.apache.org/) 
+3. [Particle Physics](https://rometools.github.io/rome/) 
 
 ## Social Networks
 * [Github](https://github.com/aepifuni/) 

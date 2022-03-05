@@ -9,22 +9,21 @@ It was held virtually from February 14 to 18.
 This time there were three courses: Deep Learning, Computer Vision and Particle Physics.
 
 ## Projects
-1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-      1. Michael
-2. [Computer Vision](https://maven.apache.org/) - Dependency Management
-3. [Particle Physics](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - [Elvin Muñoz](https://rometools.github.io/rome/)
+  1. Michael
+2. [Computer Vision](https://maven.apache.org/) - [Johan Quispe](https://rometools.github.io/rome/)
+3. [Particle Physics](https://rometools.github.io/rome/) - [Nhell Cerna](https://rometools.github.io/rome/)
 
 ## Social Networks
-* [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Computer Vision](https://maven.apache.org/) - Dependency Management
-* [Particle Physics](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Instagram](http://www.dropwizard.io/1.0.2/docs/) 
+* [Facebook](https://maven.apache.org/)
+* [YouTube](https://rometools.github.io/rome/) 
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+We greatly appreciate the work done by the instructors and by the students in each of the courses and workshops.

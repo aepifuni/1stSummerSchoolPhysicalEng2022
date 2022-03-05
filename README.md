@@ -35,6 +35,18 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
 * [Facebook](https://www.facebook.com/AEPIFUNI)
 * [YouTube](https://www.youtube.com/channel/UCtervcDQNE3TZyDkBoMEqqw) 
 
+## Organization
+1. Teams
+    1. RIDEC
+    2. Física Reacreativa
+    3. GREIC-UNI
+    
+2. Students
+    1. Anderson Orrego
+    2. Alexander Catillo
+    3. César Mateu Pecho
+    4. Adrian saravia
+    5. Mary Paredes
 
 ## License
 
@@ -42,4 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-We greatly appreciate the work done by the instructors and by the students in each of the courses and workshops.
+We greatly appreciate the work done by the instructors and by the students in each of the courses and workshops, likewise to each person who gave their time to carry out this event.

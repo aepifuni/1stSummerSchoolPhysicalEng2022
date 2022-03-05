@@ -14,7 +14,7 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
 
 ## Instructors
 1. Courses
-    1. [Elvin Muñoz](https://github.com/elvin-mark) - Deep Learning
+    1. [Elvin Muñoz](https://elvin-mark.github.io/) - Deep Learning
     2. [Johan Quispe](https://scholar.google.com/citations?user=hmoORrEAAAAJ&hl=es&oi=sra) - Computer Vision
     3. [Nhell Cerna](https://scholar.google.com/citations?user=uTWPgJcAAAAJ&hl=es&oi=ao) - Particle Physics
         

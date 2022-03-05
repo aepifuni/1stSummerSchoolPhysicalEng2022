@@ -28,6 +28,11 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
       1. [Michael](http://www.dropwizard.io/1.0.2/docs/)
 2. [Computer Vision](https://maven.apache.org/) 
 3. [Particle Physics](https://rometools.github.io/rome/) 
+      1. [Adrián Israel Arancibia González](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Adri%C3%A1n%20Israel%20Arancibia%20Gonz%C3%A1lez_PP_Report.pdf)
+      2. [Denisse Maricely Núñez del Arco Cullampe](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Denisse%20Maricely%20N%C3%BA%C3%B1ez%20del%20Arco%20Cullampe_PP_Report.pdf)
+      3. [Javier Ignacio Maldonado Palma](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Javier%20Ignacio%20Maldonado%20Palma_PP_Report.pdf)
+      4. [José Andrés Evangelio Vergaray](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Jos%C3%A9%20Andr%C3%A9s%20Evangelio%20Vergaray_PP_Report.pdf)
+      5. [Ricky Crisomeno Ticse Reyes](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Ricky%20Crisomeno%20Ticse%20Reyes_PP_Report.pdf)
 
 ## Social Networks
 * [Github](https://github.com/aepifuni/) 

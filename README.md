@@ -1,5 +1,4 @@
-# 1stSummerSchoolPhysicalEng2022
-1st Summer School Physical Engineering 2022 - Lima, Perú
+#1st Summer School Physical Engineering 2022 - Lima, Perú
 
 <p align="center">
   <img src="https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Logo%20cuadrado.png" width="400"/><img src="https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/summersh.jpg" width="400"/>

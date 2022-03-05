@@ -3,6 +3,8 @@
 
 ![picture alt](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Logo%20cuadrado.png){ width=50% }
 
+[<img src="https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Logo%20cuadrado.png" width="250"/>](Logo%20cuadrado.png)
+
 ## Context
 The first school of physical engineering is organized by the Association of undergraduate students of physical engineering (AEPIF-UNI) of the National University of Engineering - Lima, Perú.
 In order to share knowledge and expand the network of contacts with graduates.

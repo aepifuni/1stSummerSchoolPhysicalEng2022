@@ -14,7 +14,7 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
 
 ## Projects
 1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - [Elvin Muñoz](https://github.com/elvin-mark)
-  1. Michael
+      1. [Michael](http://www.dropwizard.io/1.0.2/docs/)
 2. [Computer Vision](https://maven.apache.org/) - [Johan Quispe](https://scholar.google.com/citations?user=hmoORrEAAAAJ&hl=es&oi=sra)
 3. [Particle Physics](https://rometools.github.io/rome/) - [Nhell Cerna](https://scholar.google.com/citations?user=uTWPgJcAAAAJ&hl=es&oi=ao)
 

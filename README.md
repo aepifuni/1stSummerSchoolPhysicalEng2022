@@ -25,8 +25,10 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
 
 ## Projects/Reports
 1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) 
-      1. [Michael](http://www.dropwizard.io/1.0.2/docs/)
+      1. [Adrián Israel Arancibia González](http://www.dropwizard.io/1.0.2/docs/)
 2. [Computer Vision](https://maven.apache.org/) 
+      1. [Adrián Israel Arancibia González](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Computer%20Vision%20-%20Reports/Adri%C3%A1n%20Israel%20Arancibia%20Gonz%C3%A1lez_CV)
+      2. [Royer Amed Lopez Flores](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Computer%20Vision%20-%20Reports/Royer%20Amed%20Lopez%20Flores_CV)
 3. [Particle Physics](https://rometools.github.io/rome/) 
       1. [Adrián Israel Arancibia González](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Adri%C3%A1n%20Israel%20Arancibia%20Gonz%C3%A1lez_PP_Report.pdf)
       2. [Denisse Maricely Núñez del Arco Cullampe](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Denisse%20Maricely%20N%C3%BA%C3%B1ez%20del%20Arco%20Cullampe_PP_Report.pdf)

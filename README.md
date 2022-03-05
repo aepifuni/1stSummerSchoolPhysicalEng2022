@@ -6,7 +6,7 @@
 
 
 ## Context
-The first school of physical engineering is organized by the Association of undergraduate students of physical engineering (AEPIF-UNI) of the National University of Engineering - Lima, Perú.
+The first school of physical engineering is organized by the Association of undergraduate students of physical engineering (AEPIF-UNI) of the National University of Engineering  and Interuniversity Network of Science Students (RIDEC) - Perú.
 In order to share knowledge and expand the network of contacts with graduates.
 It was held virtually from February 14 to 18.
 

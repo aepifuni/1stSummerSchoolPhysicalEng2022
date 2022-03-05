@@ -9,15 +9,16 @@ It was held virtually from February 14 to 18.
 This time there were three courses: Deep Learning, Computer Vision and Particle Physics.
 
 ## Projects
-1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - [Elvin Muñoz](https://rometools.github.io/rome/)
+1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - [Elvin Muñoz](https://github.com/elvin-mark)
   1. Michael
-2. [Computer Vision](https://maven.apache.org/) - [Johan Quispe](https://rometools.github.io/rome/)
-3. [Particle Physics](https://rometools.github.io/rome/) - [Nhell Cerna](https://rometools.github.io/rome/)
+2. [Computer Vision](https://maven.apache.org/) - [Johan Quispe](https://scholar.google.com/citations?user=hmoORrEAAAAJ&hl=es&oi=sra)
+3. [Particle Physics](https://rometools.github.io/rome/) - [Nhell Cerna](https://scholar.google.com/citations?user=uTWPgJcAAAAJ&hl=es&oi=ao)
 
 ## Social Networks
-* [Instagram](http://www.dropwizard.io/1.0.2/docs/) 
-* [Facebook](https://maven.apache.org/)
-* [YouTube](https://rometools.github.io/rome/) 
+* [Github](https://github.com/aepifuni/) 
+* [Instagram](https://www.instagram.com/aepif.uni/) 
+* [Facebook](https://www.facebook.com/AEPIFUNI)
+* [YouTube](https://www.youtube.com/channel/UCtervcDQNE3TZyDkBoMEqqw) 
 
 
 ## License

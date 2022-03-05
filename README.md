@@ -8,7 +8,7 @@ It was held virtually from February 14 to 18.
 
 This time there were three courses: Deep Learning, Computer Vision and Particle Physics.
 
-## Proyects
+## Projects
 * [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 - Michael
 * [Computer Vision](https://maven.apache.org/) - Dependency Management

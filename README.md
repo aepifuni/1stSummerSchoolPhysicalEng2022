@@ -23,7 +23,7 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
     2. Klebbert Andrade - Automatation of Fluid Physics Experiments
     3. Angelo Ledesma - Colaborator
 
-## Projects
+## Projects/Reports
 1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) 
       1. [Michael](http://www.dropwizard.io/1.0.2/docs/)
 2. [Computer Vision](https://maven.apache.org/) 

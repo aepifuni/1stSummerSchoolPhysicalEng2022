@@ -1,5 +1,6 @@
 # 1stSummerSchoolPhysicalEng2022
 1st Summer School Physical Engineering 2022 - Lima, Perú
+![picture alt](https://lh5.googleusercontent.com/wkvNucF4cMwEIbwRh8leNnuQMb_MI_Z3-SbfsumkH7792vxO8Zy_jbXA-813DGbnyxkil7XHZXjHQl_j7i9P61Vl9K3DJiFcRWQJKdEMoWP7H8B_wpePdKVdEk5PmP_0hw=w1280)
 
 ## Context
 The first school of physical engineering is organized by the Association of undergraduate students of physical engineering (AEPIF-UNI) of the National University of Engineering - Lima, Perú.

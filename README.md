@@ -10,7 +10,7 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
 
 ## Projects
 1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-  1. Michael
+      1. Michael
 2. [Computer Vision](https://maven.apache.org/) - Dependency Management
 3. [Particle Physics](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 

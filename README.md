@@ -24,7 +24,7 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
     3. Angelo Ledesma - Colaborator
 
 ## Projects/Reports
-1. [Deep Learning](http://www.dropwizard.io/1.0.2/docs/) 
+1. Deep Learning 
       1. [Adrián Israel Arancibia González](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Adri%C3%A1n%20Israel%20Arancibia%20Gonz%C3%A1lez_DL)
       2. [Alvaro Alejandro Siesquén Abad](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Alvaro%20Alejandro%20Siesqu%C3%A9n%20Abad_DL)
       3. [Angel Tomas Chaico Cahuana](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Angel%20Tomas%20Chaico%20Cahuana_DL)
@@ -34,10 +34,10 @@ This time there were three courses: Deep Learning, Computer Vision and Particle 
       7. [Michael Jordy Rojas Ruiz](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Michael%20Jordy%20Rojas%20Ruiz_DL)
       8. [Miriam Geronimo Aparicio](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Miriam%20Geronimo%20Aparicio_DL)
       9. [Royer Amed Lopez Flores](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Deep%20Learning%20-%20Reports/Royer%20Amed%20Lopez%20Flores_DL)
-2. [Computer Vision](https://maven.apache.org/) 
+2. Computer Vision
       1. [Adrián Israel Arancibia González](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Computer%20Vision%20-%20Reports/Adri%C3%A1n%20Israel%20Arancibia%20Gonz%C3%A1lez_CV)
       2. [Royer Amed Lopez Flores](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/tree/main/Computer%20Vision%20-%20Reports/Royer%20Amed%20Lopez%20Flores_CV)
-3. [Particle Physics](https://rometools.github.io/rome/) 
+3. Particle Physics
       1. [Adrián Israel Arancibia González](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Adri%C3%A1n%20Israel%20Arancibia%20Gonz%C3%A1lez_PP_Report.pdf)
       2. [Carlos Macedonio Montañez Montenegro](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Carlos%20Macedonio%20Monta%C3%B1ez%20Montenegro_PP_Report.pdf)
       3. [Denisse Maricely Núñez del Arco Cullampe](https://github.com/aepifuni/1stSummerSchoolPhysicalEng2022/blob/main/Particle%20Physics%20-%20Reports/Denisse%20Maricely%20N%C3%BA%C3%B1ez%20del%20Arco%20Cullampe_PP_Report.pdf)

@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-We greatly appreciate the work done by the instructors and by the students in each of the courses and workshops, likewise to each person who gave their time to carry out this event.
+We greatly appreciate the work done by the instructors and by the students in each of the courses and workshops and teams, likewise to each person who gave their time to carry out this event.
